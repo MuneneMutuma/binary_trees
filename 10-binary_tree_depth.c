@@ -4,7 +4,7 @@
 /**
  * binary_tree_depth - finds the depth of a node in a binary tree
  *
- * @tree - node in the binary tree
+ * @tree: node in the binary tree
  *
  * Return: returns depth of binary tree
  */
